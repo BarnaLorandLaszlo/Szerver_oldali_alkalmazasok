@@ -28,3 +28,4 @@ F:\work\szerveroldali\Szerver_oldali_alkalmazasok\MvcMovie\obj\Debug\net8.0\refi
 F:\work\szerveroldali\Szerver_oldali_alkalmazasok\MvcMovie\obj\Debug\net8.0\MvcMovie.pdb
 F:\work\szerveroldali\Szerver_oldali_alkalmazasok\MvcMovie\obj\Debug\net8.0\MvcMovie.genruntimeconfig.cache
 F:\work\szerveroldali\Szerver_oldali_alkalmazasok\MvcMovie\obj\Debug\net8.0\ref\MvcMovie.dll
+F:\work\szerveroldali\Szerver_oldali_alkalmazasok\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json
