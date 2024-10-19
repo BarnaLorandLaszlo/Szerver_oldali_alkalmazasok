@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "F:\\work\\szerveroldali\\Szerver_oldali_alkalmazasok\\MvcMovie\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{51AFBBAE-1B6D-4032-AB1A-DFCC41BDDCEF}|MvcMovie.csproj|f:\\work\\szerveroldali\\szerver_oldali_alkalmazasok\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AFBBAE-1B6D-4032-AB1A-DFCC41BDDCEF}|MvcMovie.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{51AFBBAE-1B6D-4032-AB1A-DFCC41BDDCEF}|MvcMovie.csproj|f:\\work\\szerveroldali\\szerver_oldali_alkalmazasok\\mvcmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51AFBBAE-1B6D-4032-AB1A-DFCC41BDDCEF}|MvcMovie.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51AFBBAE-1B6D-4032-AB1A-DFCC41BDDCEF}|MvcMovie.csproj|f:\\work\\szerveroldali\\szerver_oldali_alkalmazasok\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51AFBBAE-1B6D-4032-AB1A-DFCC41BDDCEF}|MvcMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51AFBBAE-1B6D-4032-AB1A-DFCC41BDDCEF}|MvcMovie.csproj|f:\\work\\szerveroldali\\szerver_oldali_alkalmazasok\\mvcmovie\\models\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,14 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{51AFBBAE-1B6D-4032-AB1A-DFCC41BDDCEF}|MvcMovie.csproj|f:\\work\\szerveroldali\\szerver_oldali_alkalmazasok\\mvcmovie\\migrations\\20241019163923_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{51AFBBAE-1B6D-4032-AB1A-DFCC41BDDCEF}|MvcMovie.csproj|solutionrelative:migrations\\20241019163923_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51AFBBAE-1B6D-4032-AB1A-DFCC41BDDCEF}|MvcMovie.csproj|f:\\work\\szerveroldali\\szerver_oldali_alkalmazasok\\mvcmovie\\controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51AFBBAE-1B6D-4032-AB1A-DFCC41BDDCEF}|MvcMovie.csproj|solutionrelative:controllers\\moviescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{51AFBBAE-1B6D-4032-AB1A-DFCC41BDDCEF}|MvcMovie.csproj|f:\\work\\szerveroldali\\szerver_oldali_alkalmazasok\\mvcmovie\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{51AFBBAE-1B6D-4032-AB1A-DFCC41BDDCEF}|MvcMovie.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{51AFBBAE-1B6D-4032-AB1A-DFCC41BDDCEF}|MvcMovie.csproj|f:\\work\\szerveroldali\\szerver_oldali_alkalmazasok\\mvcmovie\\views\\helloworld\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -55,19 +55,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MoviesController.cs",
+              "DocumentMoniker": "F:\\work\\szerveroldali\\Szerver_oldali_alkalmazasok\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
+              "ToolTip": "F:\\work\\szerveroldali\\Szerver_oldali_alkalmazasok\\MvcMovie\\Controllers\\MoviesController.cs",
+              "RelativeToolTip": "Controllers\\MoviesController.cs",
+              "ViewState": "AQIAAJ0AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:38:50.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "F:\\work\\szerveroldali\\Szerver_oldali_alkalmazasok\\MvcMovie\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "F:\\work\\szerveroldali\\Szerver_oldali_alkalmazasok\\MvcMovie\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAABAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABIAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-19T16:12:51.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "F:\\work\\szerveroldali\\Szerver_oldali_alkalmazasok\\MvcMovie\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "F:\\work\\szerveroldali\\Szerver_oldali_alkalmazasok\\MvcMovie\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:35:01.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SeedData.cs",
               "DocumentMoniker": "F:\\work\\szerveroldali\\Szerver_oldali_alkalmazasok\\MvcMovie\\Models\\SeedData.cs",
               "RelativeDocumentMoniker": "Models\\SeedData.cs",
@@ -75,12 +101,11 @@
               "RelativeToolTip": "Models\\SeedData.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAkwDYAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T16:47:26.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T16:47:26.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "20241019163923_InitialCreate.cs",
               "DocumentMoniker": "F:\\work\\szerveroldali\\Szerver_oldali_alkalmazasok\\MvcMovie\\Migrations\\20241019163923_InitialCreate.cs",
               "RelativeDocumentMoniker": "Migrations\\20241019163923_InitialCreate.cs",
@@ -88,34 +113,7 @@
               "RelativeToolTip": "Migrations\\20241019163923_InitialCreate.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T16:39:23.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MoviesController.cs",
-              "DocumentMoniker": "F:\\work\\szerveroldali\\Szerver_oldali_alkalmazasok\\MvcMovie\\Controllers\\MoviesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MoviesController.cs",
-              "ToolTip": "F:\\work\\szerveroldali\\Szerver_oldali_alkalmazasok\\MvcMovie\\Controllers\\MoviesController.cs",
-              "RelativeToolTip": "Controllers\\MoviesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T16:38:50.351Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Movie.cs",
-              "DocumentMoniker": "F:\\work\\szerveroldali\\Szerver_oldali_alkalmazasok\\MvcMovie\\Models\\Movie.cs",
-              "RelativeDocumentMoniker": "Models\\Movie.cs",
-              "ToolTip": "F:\\work\\szerveroldali\\Szerver_oldali_alkalmazasok\\MvcMovie\\Models\\Movie.cs",
-              "RelativeToolTip": "Models\\Movie.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAQwAwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T16:35:01.537Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T16:39:23.509Z"
             },
             {
               "$type": "Document",
@@ -127,8 +125,7 @@
               "RelativeToolTip": "Views\\HelloWorld\\Welcome.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T16:31:14.611Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T16:31:14.611Z"
             },
             {
               "$type": "Document",
@@ -140,8 +137,7 @@
               "RelativeToolTip": "Controllers\\HelloWorldController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-19T16:11:11.169Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T16:11:11.169Z"
             },
             {
               "$type": "Document",
@@ -153,8 +149,7 @@
               "RelativeToolTip": "Views\\HelloWorld\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T16:20:07.769Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T16:20:07.769Z"
             },
             {
               "$type": "Document",
@@ -166,8 +161,7 @@
               "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T16:25:38.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T16:25:38.316Z"
             },
             {
               "$type": "Document",
@@ -179,8 +173,7 @@
               "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAABsAAAAAAAAAAIBJwCwAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-19T16:21:32.911Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-19T16:21:32.911Z"
             }
           ]
         }
